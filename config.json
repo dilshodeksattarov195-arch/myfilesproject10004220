@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrtringify",
+        "uuid": 21602180,
+        "checksum": "lcbe6r"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
